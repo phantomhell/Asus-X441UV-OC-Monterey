@@ -51,5 +51,6 @@ Hackintosh resource for macOS Monterey on Asus X441UV
 - iServices (iMessage, App Store, iCloud, etc)
 
 **Credit:**
+- [@daliansky](https://github.com/daliansky) for pointing me out about Monterey 
 - [@draken573](https://github.com/Draken573) for ideating me to try Monterey on Asus X441UV
-- [@phantomhell](https://github.com/phantomhell)
+- [@phantomhell](https://github.com/phantomhell) for this small stuff for fun only
