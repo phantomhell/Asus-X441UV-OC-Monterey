@@ -1,5 +1,7 @@
 # Asus-X441UV-OC-Monterey
-Hackintosh resource for macOS Monterey on Asus X441UV 
+Hackintosh resource for macOS Monterey on Asus X441UV
+
+![Screenshot](https://github.com/phantomhell/Asus-X441UV-OC-Monterey/blob/main/Monterey-X441UV.png)
 
 -------
 **Specification :**
